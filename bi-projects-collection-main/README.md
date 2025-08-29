@@ -77,6 +77,8 @@ Drop suggestions, issues, or improvements. Every insight makes this hub stronger
 💼 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragatheesh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pragatheesh-r/)
 
-##📧 Email: Pragatheesh.r3@gmail.com
+## 📬 Let’s Connect  
+✉️ Drop me a mail at: [**Pragatheesh.r3@gmail.com**](mailto:Pragatheesh.r3@gmail.com)  
+I promise I don’t ghost emails 😉
 
 ✨ This hub is more than a collection — it’s my journey in transforming data into decisions.
