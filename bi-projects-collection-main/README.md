@@ -74,7 +74,7 @@ Drop suggestions, issues, or improvements. Every insight makes this hub stronger
 
 🔗 Let’s Connect
 
-💼 ## 🔗 Connect with Me  
+## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragatheesh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pragatheesh-r/)
 
 ## 📬 Let’s Connect  
