@@ -29,12 +29,13 @@ Think of it as your go-to destination for:
 ---
 
 ## 🗂 Repository Structure  
-Here’s how things are organized for easy navigation:  
-📦 PowerBI-Decision-Analytics-Hub --> bi-projec-collection-main
-┣ 📂 dashboards → Power BI files (.pbix)
-┣ 📂 datasets → Source datasets (CSV, Excel, SQL extracts)
-┣ 📂 docs → Supporting documentation & visuals
-┣ 📜 README.md → Project overview (you’re here!)
+
+| Path / Folder | What’s Inside |
+|---------------|---------------|
+| 📊 **dashboards/** | Interactive Power BI reports (.pbix) with KPIs, trends, and insights |
+| 📑 **datasets/** | Source data (CSV, Excel, SQL extracts) powering dashboards |
+| 📝 **docs/** | Supporting docs → project guides, screenshots, explanations |
+| 📘 **README.md** | This file → project overview & navigation |
 
 
 📌 Here’s a sneak peek into what you’ll find:
