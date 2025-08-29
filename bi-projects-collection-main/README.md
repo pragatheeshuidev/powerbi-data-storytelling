@@ -1,4 +1,4 @@
-🚀 PowerBI Decision Analytics Hub
+###🚀 PowerBI Decision Analytics Hub
 
 Welcome to the PowerBI Decision Analytics Hub — a growing library of interactive dashboards built to turn raw data into stories that drive decisions.
 
@@ -59,8 +59,9 @@ Drop suggestions, issues, or improvements. Every insight makes this hub stronger
 
 🔗 Let’s Connect
 
-💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/pragatheesh-r/)
+💼 ## 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pragatheesh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pragatheesh-r/)
 
-📧 Email: Pragatheesh.r3@gmail.com
+##📧 Email: Pragatheesh.r3@gmail.com
 
 ✨ This hub is more than a collection — it’s my journey in transforming data into decisions.
